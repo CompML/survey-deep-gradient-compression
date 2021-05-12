@@ -19,6 +19,7 @@
 * [ ] [Wu, Jiaxiang, et al. "Error compensated quantized SGD and its applications to large-scale distributed optimization." International Conference on Machine Learning. PMLR, 2018.](http://proceedings.mlr.press/v80/wu18d/wu18d.pdf)
 * [ ] [Bernstein, Jeremy, et al. "signSGD with majority vote is communication efficient and fault tolerant." arXiv preprint arXiv:1810.05291 (2018).](https://arxiv.org/pdf/1810.05291.pdf)
 * [ ] [Yu, Mingchao, et al. "Gradiveq: Vector quantization for bandwidth-efficient gradient aggregation in distributed cnn training." arXiv preprint arXiv:1811.03617 (2018).](https://arxiv.org/pdf/1811.03617.pdf)
+* [ ] [Alistarh, Dan, et al. "QSGD: Communication-efficient SGD via gradient quantization and encoding." Advances in Neural Information Processing Systems 30 (2017): 1709-1720.](https://papers.nips.cc/paper/2017/file/6c340f25839e6acdc73414517203f5f0-Paper.pdf)
 
 ## Asynchronus Learning
 * [ ] [Grishchenko, Dmitry, et al. "Asynchronous distributed learning with sparse communications and identification." (2018).](https://hal.archives-ouvertes.fr/hal-01950120/document)
