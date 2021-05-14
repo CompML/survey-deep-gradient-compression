@@ -22,7 +22,7 @@
 * [ ] [Alistarh, Dan, et al. "QSGD: Communication-efficient SGD via gradient quantization and encoding." Advances in Neural Information Processing Systems 30 (2017): 1709-1720.](https://papers.nips.cc/paper/2017/file/6c340f25839e6acdc73414517203f5f0-Paper.pdf)
 
 ## Asynchronus Learning
-* [ ] [Grishchenko, Dmitry, et al. "Asynchronous distributed learning with sparse communications and identification." (2018).](https://hal.archives-ouvertes.fr/hal-01950120/document)
+* [X] [Grishchenko, Dmitry, et al. "Asynchronous distributed learning with sparse communications and identification." (2018).](https://hal.archives-ouvertes.fr/hal-01950120/document)
 * [ ] [Bogoychev, Nikolay, et al. "Accelerating asynchronous stochastic gradient descent for neural machine translation." arXiv preprint arXiv:1808.08859 (2018).](https://hal.archives-ouvertes.fr/hal-01950120/document)
 
 ## Federated Learning
