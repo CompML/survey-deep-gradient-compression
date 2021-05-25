@@ -9,7 +9,7 @@
 * [ ] [Shi, Shaohuai, et al. "A distributed synchronous SGD algorithm with global Top-k sparsification for low bandwidth networks." 2019 IEEE 39th International Conference on Distributed Computing Systems (ICDCS). IEEE, 2019.](https://arxiv.org/pdf/1901.04359.pdf)
 * [X] [Shi, Shaohuai, et al. "A Convergence Analysis of Distributed SGD with Communication-Efficient Gradient Sparsification." IJCAI. 2019.](https://www.ijcai.org/Proceedings/2019/0473.pdf)
 * [ ] [Shi, Shaohuai, et al. "Layer-wise adaptive gradient sparsification for distributed deep learning with convergence guarantees." arXiv preprint arXiv:1911.08727 (2019).](https://arxiv.org/abs/1911.08727)
-* [ ] [Alistarh, Dan, et al. "The convergence of sparsified gradient methods." arXiv preprint arXiv:1809.10505 (2018).](https://arxiv.org/pdf/1809.10505.pdf)
+* [x] [Alistarh, Dan, et al. "The Convergence of Sparsified Gradient Methods." 32nd Conference on Neural Information Processing Systems (NIPS), DEC 02-08, 2018, Montreal, Canada. Vol. 31. Neural Information Processing Systems (NIPS), 2018.](https://papers.nips.cc/paper/2018/hash/314450613369e0ee72d0da7f6fee773c-Abstract.html)
 
 ## Gradient Quantization
 * [ ] [Zhu, Guangxu, et al. "One-bit over-the-air aggregation for communication-efficient federated edge learning: Design and convergence analysis." IEEE Transactions on Wireless Communications (2020).](https://arxiv.org/pdf/2001.05713.pdf)
