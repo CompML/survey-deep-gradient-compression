@@ -10,8 +10,8 @@
 * [X] [Shi, Shaohuai, et al. "A Convergence Analysis of Distributed SGD with Communication-Efficient Gradient Sparsification." IJCAI. 2019.](https://www.ijcai.org/Proceedings/2019/0473.pdf)
 * [ ] [Sattler, Felix, et al. "Sparse binary compression: Towards distributed deep learning with minimal communication." 2019 International Joint Conference on Neural Networks (IJCNN). IEEE, 2019.](https://arxiv.org/pdf/1805.08768.pdf)
 * [ ] [Shi, Shaohuai, et al. "Layer-wise adaptive gradient sparsification for distributed deep learning with convergence guarantees." arXiv preprint arXiv:1911.08727 (2019).](https://arxiv.org/abs/1911.08727)
-* [x] [Alistarh, Dan, et al. "The Convergence of Sparsified Gradient Methods." 32nd Conference on Neural Information Processing Systems (NIPS), DEC 02-08, 2018, Montreal, Canada. Vol. 31. Neural Information Processing Systems (NIPS), 2018.](https://papers.nips.cc/paper/2018/hash/314450613369e0ee72d0da7f6fee773c-Abstract.html)
-* [ ] [Stich, Sebastian U., Jean-Baptiste Cordonnier, and Martin Jaggi. "Sparsified SGD with Memory." Advances in Neural Information Processing Systems 31 (2018): 4447-4458.](https://proceedings.neurips.cc/paper/2018/hash/b440509a0106086a67bc2ea9df0a1dab-Abstract.html)
+* [X] [Alistarh, Dan, et al. "The Convergence of Sparsified Gradient Methods." 32nd Conference on Neural Information Processing Systems (NIPS), DEC 02-08, 2018, Montreal, Canada. Vol. 31. Neural Information Processing Systems (NIPS), 2018.](https://papers.nips.cc/paper/2018/hash/314450613369e0ee72d0da7f6fee773c-Abstract.html)
+* [X] [Stich, Sebastian U., Jean-Baptiste Cordonnier, and Martin Jaggi. "Sparsified SGD with Memory." Advances in Neural Information Processing Systems 31 (2018): 4447-4458.](https://proceedings.neurips.cc/paper/2018/hash/b440509a0106086a67bc2ea9df0a1dab-Abstract.html)
 
 ## Gradient Quantization
 * [ ] [Zhu, Guangxu, et al. "One-bit over-the-air aggregation for communication-efficient federated edge learning: Design and convergence analysis." IEEE Transactions on Wireless Communications (2020).](https://arxiv.org/pdf/2001.05713.pdf)
