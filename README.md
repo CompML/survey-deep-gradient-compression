@@ -4,7 +4,7 @@
 ## Gradient Compression (Sparsification)
 * [ ] [Chen, Chia-Yu, et al. "Scalecom: Scalable sparsified gradient compression for communication-efficient distributed training." arXiv preprint arXiv:2104.11125 (2021)](https://arxiv.org/pdf/2104.11125.pdf)
 * [ ] [Han, Pengchao, Shiqiang Wang, and Kin K. Leung. "Adaptive gradient sparsification for efficient federated learning: An online learning approach." arXiv preprint arXiv:2001.04756 (2020).](https://arxiv.org/abs/2001.04756)
-* [ ] [Dutta, Aritra, et al. "On the discrepancy between the theoretical analysis and practical implementations of compressed communication for distributed deep learning." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 34. No. 04. 2020.](https://ojs.aaai.org/index.php/AAAI/article/view/5793)
+* [X] [Dutta, Aritra, et al. "On the discrepancy between the theoretical analysis and practical implementations of compressed communication for distributed deep learning." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 34. No. 04. 2020.](https://ojs.aaai.org/index.php/AAAI/article/view/5793)
 * [ ] [Shi, Shaohuai, et al. "Communication-efficient distributed deep learning with merged gradient sparsification on GPUs." IEEE INFOCOM 2020-IEEE Conference on Computer Communications. IEEE, 2020.](https://www.comp.hkbu.edu.hk/~chxw/papers/infocom_2020_MGS.pdf)
 * [X] [Mishchenko, Konstantin, Filip Hanzely, and Peter Richtárik. "99% of worker-master communication in distributed optimization is not needed." Conference on Uncertainty in Artificial Intelligence. PMLR, 2020.](http://proceedings.mlr.press/v124/mishchenko20a/mishchenko20a.pdf)
 * [ ] [Shi, Shaohuai, et al. "A distributed synchronous SGD algorithm with global Top-k sparsification for low bandwidth networks." 2019 IEEE 39th International Conference on Distributed Computing Systems (ICDCS). IEEE, 2019.](https://arxiv.org/pdf/1901.04359.pdf)
@@ -15,7 +15,7 @@
 * [X] [Stich, Sebastian U., Jean-Baptiste Cordonnier, and Martin Jaggi. "Sparsified SGD with Memory." Advances in Neural Information Processing Systems 31 (2018): 4447-4458.](https://proceedings.neurips.cc/paper/2018/hash/b440509a0106086a67bc2ea9df0a1dab-Abstract.html)
 
 ## Gradient Quantization
-* [] [Zhu, Guangxu, et al. "One-bit over-the-air aggregation for communication-efficient federated edge learning: Design and convergence analysis." IEEE Transactions on Wireless Communications (2020).](https://arxiv.org/pdf/2001.05713.pdf)
+* [ ] [Zhu, Guangxu, et al. "One-bit over-the-air aggregation for communication-efficient federated edge learning: Design and convergence analysis." IEEE Transactions on Wireless Communications (2020).](https://arxiv.org/pdf/2001.05713.pdf)
 * [ ] [Abdi, Afshin, and Faramarz Fekri. "Quantized compressive sampling of stochastic gradients for efficient communication in distributed deep learning." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 34. No. 04. 2020.](https://ojs.aaai.org/index.php/AAAI/article/download/5706/5562)
 * [ ] [Horváth, Samuel, et al. "Stochastic distributed learning with gradient quantization and variance reduction." arXiv preprint arXiv:1904.05115 (2019).](https://arxiv.org/pdf/1904.05115.pdf)
 * [ ] [Zheng, Shuai, Ziyue Huang, and James T. Kwok. "Communication-efficient distributed blockwise momentum SGD with error-feedback." arXiv preprint arXiv:1905.10936 (2019).](https://arxiv.org/pdf/1905.10936.pdf)
