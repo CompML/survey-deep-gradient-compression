@@ -15,7 +15,7 @@
 * [X] [Stich, Sebastian U., Jean-Baptiste Cordonnier, and Martin Jaggi. "Sparsified SGD with Memory." Advances in Neural Information Processing Systems 31 (2018): 4447-4458.](https://proceedings.neurips.cc/paper/2018/hash/b440509a0106086a67bc2ea9df0a1dab-Abstract.html)
 
 ## Gradient Quantization
-* [ ] [Zhu, Guangxu, et al. "One-bit over-the-air aggregation for communication-efficient federated edge learning: Design and convergence analysis." IEEE Transactions on Wireless Communications (2020).](https://arxiv.org/pdf/2001.05713.pdf)
+* [] [Zhu, Guangxu, et al. "One-bit over-the-air aggregation for communication-efficient federated edge learning: Design and convergence analysis." IEEE Transactions on Wireless Communications (2020).](https://arxiv.org/pdf/2001.05713.pdf)
 * [ ] [Abdi, Afshin, and Faramarz Fekri. "Quantized compressive sampling of stochastic gradients for efficient communication in distributed deep learning." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 34. No. 04. 2020.](https://ojs.aaai.org/index.php/AAAI/article/download/5706/5562)
 * [ ] [Horváth, Samuel, et al. "Stochastic distributed learning with gradient quantization and variance reduction." arXiv preprint arXiv:1904.05115 (2019).](https://arxiv.org/pdf/1904.05115.pdf)
 * [ ] [Zheng, Shuai, Ziyue Huang, and James T. Kwok. "Communication-efficient distributed blockwise momentum SGD with error-feedback." arXiv preprint arXiv:1905.10936 (2019).](https://arxiv.org/pdf/1905.10936.pdf)
