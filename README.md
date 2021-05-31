@@ -23,7 +23,7 @@
 * [ ] [Bernstein, Jeremy, et al. "signSGD with majority vote is communication efficient and fault tolerant." arXiv preprint arXiv:1810.05291 (2018).](https://arxiv.org/pdf/1810.05291.pdf)
 * [ ] [Yu, Mingchao, et al. "Gradiveq: Vector quantization for bandwidth-efficient gradient aggregation in distributed cnn training." arXiv preprint arXiv:1811.03617 (2018).](https://arxiv.org/pdf/1811.03617.pdf)
 * [ ] [Alistarh, Dan, et al. "QSGD: Communication-efficient SGD via gradient quantization and encoding." Advances in Neural Information Processing Systems 30 (2017): 1709-1720.](https://papers.nips.cc/paper/2017/file/6c340f25839e6acdc73414517203f5f0-Paper.pdf)
-* [ ] [Wen, Wei, et al. "TernGrad: ternary gradients to reduce communication in distributed deep learning." Proceedings of the 31st International Conference on Neural Information Processing Systems. 2017.](https://dl.acm.org/doi/pdf/10.5555/3294771.3294915)
+* [X] [Wen, Wei, et al. "TernGrad: ternary gradients to reduce communication in distributed deep learning." Proceedings of the 31st International Conference on Neural Information Processing Systems. 2017.](https://dl.acm.org/doi/pdf/10.5555/3294771.3294915)
 
 ## Asynchronus Learning
 * [X] [Grishchenko, Dmitry, et al. "Asynchronous distributed learning with sparse communications and identification." (2018).](https://hal.archives-ouvertes.fr/hal-01950120/document)
