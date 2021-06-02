@@ -20,7 +20,7 @@
 * [ ] [Sohn, Jy-yong, et al. "Election coding for distributed learning: Protecting SignSGD against byzantine attacks." Advances in Neural Information Processing Systems 33 (2020).](https://proceedings.neurips.cc/paper/2020/hash/a7f0d2b95c60161b3f3c82f764b1d1c9-Abstract.html)
 * [ ] [Horváth, Samuel, et al. "Stochastic distributed learning with gradient quantization and variance reduction." arXiv preprint arXiv:1904.05115 (2019).](https://arxiv.org/pdf/1904.05115.pdf)
 * [ ] [Zheng, Shuai, Ziyue Huang, and James T. Kwok. "Communication-efficient distributed blockwise momentum SGD with error-feedback." arXiv preprint arXiv:1905.10936 (2019).](https://arxiv.org/pdf/1905.10936.pdf)
-* [ ] [Karimireddy, Sai Praneeth, et al. "Error feedback fixes signsgd and other gradient compression schemes." International Conference on Machine Learning. PMLR, 2019.](http://proceedings.mlr.press/v97/karimireddy19a.html)
+* [X] [Karimireddy, Sai Praneeth, et al. "Error feedback fixes signsgd and other gradient compression schemes." International Conference on Machine Learning. PMLR, 2019.](http://proceedings.mlr.press/v97/karimireddy19a.html)
 * [ ] [Wu, Jiaxiang, et al. "Error compensated quantized SGD and its applications to large-scale distributed optimization." International Conference on Machine Learning. PMLR, 2018.](http://proceedings.mlr.press/v80/wu18d/wu18d.pdf)
 * [X] [Bernstein, Jeremy, et al. "signSGD with majority vote is communication efficient and fault tolerant." arXiv preprint arXiv:1810.05291 (2018).](https://arxiv.org/pdf/1810.05291.pdf)
 * [ ] [Yu, Mingchao, et al. "Gradiveq: Vector quantization for bandwidth-efficient gradient aggregation in distributed cnn training." arXiv preprint arXiv:1811.03617 (2018).](https://arxiv.org/pdf/1811.03617.pdf)
