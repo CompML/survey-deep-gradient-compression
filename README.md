@@ -17,13 +17,13 @@
 ## Gradient Quantization
 * [X] [Zhu, Guangxu, et al. "One-bit over-the-air aggregation for communication-efficient federated edge learning: Design and convergence analysis." IEEE Transactions on Wireless Communications (2020).](https://arxiv.org/pdf/2001.05713.pdf)
 * [X] [Abdi, Afshin, and Faramarz Fekri. "Quantized compressive sampling of stochastic gradients for efficient communication in distributed deep learning." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 34. No. 04. 2020.](https://ojs.aaai.org/index.php/AAAI/article/download/5706/5562)
-* [] [Sohn, Jy-yong, et al. "Election coding for distributed learning: Protecting SignSGD against byzantine attacks." Advances in Neural Information Processing Systems 33 (2020).](https://proceedings.neurips.cc/paper/2020/hash/a7f0d2b95c60161b3f3c82f764b1d1c9-Abstract.html)
+* [ ] [Sohn, Jy-yong, et al. "Election coding for distributed learning: Protecting SignSGD against byzantine attacks." Advances in Neural Information Processing Systems 33 (2020).](https://proceedings.neurips.cc/paper/2020/hash/a7f0d2b95c60161b3f3c82f764b1d1c9-Abstract.html)
 * [ ] [Horváth, Samuel, et al. "Stochastic distributed learning with gradient quantization and variance reduction." arXiv preprint arXiv:1904.05115 (2019).](https://arxiv.org/pdf/1904.05115.pdf)
 * [ ] [Zheng, Shuai, Ziyue Huang, and James T. Kwok. "Communication-efficient distributed blockwise momentum SGD with error-feedback." arXiv preprint arXiv:1905.10936 (2019).](https://arxiv.org/pdf/1905.10936.pdf)
 * [X] [Karimireddy, Sai Praneeth, et al. "Error feedback fixes signsgd and other gradient compression schemes." International Conference on Machine Learning. PMLR, 2019.](http://proceedings.mlr.press/v97/karimireddy19a.html)
 * [ ] [Wu, Jiaxiang, et al. "Error compensated quantized SGD and its applications to large-scale distributed optimization." International Conference on Machine Learning. PMLR, 2018.](http://proceedings.mlr.press/v80/wu18d/wu18d.pdf)
 * [X] [Bernstein, Jeremy, et al. "signSGD with majority vote is communication efficient and fault tolerant." arXiv preprint arXiv:1810.05291 (2018).](https://arxiv.org/pdf/1810.05291.pdf)
-* [ ] [Yu, Mingchao, et al. "Gradiveq: Vector quantization for bandwidth-efficient gradient aggregation in distributed cnn training." arXiv preprint arXiv:1811.03617 (2018).](https://arxiv.org/pdf/1811.03617.pdf)
+* [X] [Yu, Mingchao, et al. "Gradiveq: Vector quantization for bandwidth-efficient gradient aggregation in distributed cnn training." arXiv preprint arXiv:1811.03617 (2018).](https://arxiv.org/pdf/1811.03617.pdf)
 * [X] [Alistarh, Dan, et al. "QSGD: Communication-efficient SGD via gradient quantization and encoding." Advances in Neural Information Processing Systems 30 (2017): 1709-1720.](https://papers.nips.cc/paper/2017/file/6c340f25839e6acdc73414517203f5f0-Paper.pdf)
 * [X] [Wen, Wei, et al. "TernGrad: ternary gradients to reduce communication in distributed deep learning." Proceedings of the 31st International Conference on Neural Information Processing Systems. 2017.](https://dl.acm.org/doi/pdf/10.5555/3294771.3294915)
 
