@@ -17,7 +17,7 @@
 ## Gradient Quantization
 * [X] [Zhu, Guangxu, et al. "One-bit over-the-air aggregation for communication-efficient federated edge learning: Design and convergence analysis." IEEE Transactions on Wireless Communications (2020).](https://arxiv.org/pdf/2001.05713.pdf)
 * [X] [Abdi, Afshin, and Faramarz Fekri. "Quantized compressive sampling of stochastic gradients for efficient communication in distributed deep learning." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 34. No. 04. 2020.](https://ojs.aaai.org/index.php/AAAI/article/download/5706/5562)
-* [ ] [Sohn, Jy-yong, et al. "Election coding for distributed learning: Protecting SignSGD against byzantine attacks." Advances in Neural Information Processing Systems 33 (2020).](https://proceedings.neurips.cc/paper/2020/hash/a7f0d2b95c60161b3f3c82f764b1d1c9-Abstract.html)
+* [] [Sohn, Jy-yong, et al. "Election coding for distributed learning: Protecting SignSGD against byzantine attacks." Advances in Neural Information Processing Systems 33 (2020).](https://proceedings.neurips.cc/paper/2020/hash/a7f0d2b95c60161b3f3c82f764b1d1c9-Abstract.html)
 * [ ] [Horváth, Samuel, et al. "Stochastic distributed learning with gradient quantization and variance reduction." arXiv preprint arXiv:1904.05115 (2019).](https://arxiv.org/pdf/1904.05115.pdf)
 * [ ] [Zheng, Shuai, Ziyue Huang, and James T. Kwok. "Communication-efficient distributed blockwise momentum SGD with error-feedback." arXiv preprint arXiv:1905.10936 (2019).](https://arxiv.org/pdf/1905.10936.pdf)
 * [X] [Karimireddy, Sai Praneeth, et al. "Error feedback fixes signsgd and other gradient compression schemes." International Conference on Machine Learning. PMLR, 2019.](http://proceedings.mlr.press/v97/karimireddy19a.html)
